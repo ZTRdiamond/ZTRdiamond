@@ -1,4 +1,6 @@
-**Discord:** `ZTRdiamond#9126`
+#**Discord:** `ZTRdiamond#9126`
+
+#**About:** Aoi.js bot dev & Newbie web dev
 
 <!---
 ZTRdiamond/ZTRdiamond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

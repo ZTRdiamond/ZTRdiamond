@@ -26,7 +26,5 @@
 
 <h3 align="left">My Statistic:</h3>
 <p><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ztrdiamond&show_icons=true&locale=en&layout=compact" alt="ztrdiamond" /></br></p>
-
 <p><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=ztrdiamond&show_icons=true&locale=en" alt="ztrdiamond" /></br></p>
-
 <p><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ztrdiamond&" alt="ztrdiamond" /></p>

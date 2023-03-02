@@ -10,7 +10,7 @@
 > **Aoi.js**
 
 - 📫 How to reach me
-> **ztrdiamond9126@gmail.com**
+> **Discord:** `ZTRdiamond#9126`
 
 - ⚡ Fun fact
 > **I like programming started from my curiosity how to make a game**

@@ -17,7 +17,7 @@
 <a href="https://twitter.com/ztrdiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ztrdiamond" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ztrdiamond&show_icons=true&locale=en&layout=compact" alt="ztrdiamond" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ztrdiamond&show_icons=true&locale=en&layout=compact" alt="ztrdiamond" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ztrdiamond&show_icons=true&locale=en" alt="ztrdiamond" /></p>
 

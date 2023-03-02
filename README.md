@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm ZTRdiamond</h1>
-- 🔭 I’m currently working on **Discord Bot**
+- 🔭 I’m currently working on 
+> **Discord Bot**
 
-- 🌱 I’m currently learning **Javascript, Html, Css, Aoi.js**
+- 🌱 I’m currently learning
+> **Javascript, Html, Css, Aoi.js**
 
-- 💬 Ask me about **Aoi.js**
+- 💬 Ask me about
+> **Aoi.js**
 
-- 📫 How to reach me **ztrdiamond9126@gmail.com**
+- 📫 How to reach me
+> **ztrdiamond9126@gmail.com**
 
-- ⚡ Fun fact **I like programming started from my curiosity how to make a game**
+- ⚡ Fun fact
+> **I like programming started from my curiosity how to make a game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

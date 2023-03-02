@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZTRdiamond</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&width=435&lines=Hello%2C+I'm+ZTRdiamond;I+like+simple+programming;I+made+a+discord+bot)](https://git.io/typing-svg)
+
 <h3 align="center">Just a random guy, who loves programming, video editing, drawing and designing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ztrdiamond&label=Profile%20views&color=0e75b6&style=flat" alt="ztrdiamond" /> </p>

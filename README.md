@@ -1,4 +1,4 @@
-# My Bio
+# Hello, I'm ZTRdiamond
 
 Just a random guy, who loves programming, video editing, drawing and designing
 

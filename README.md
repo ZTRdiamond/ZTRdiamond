@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on 
   - **Discord Bot**
-─────────────────
 - 🌱 I’m currently learning
   - **Javascript, Html, Css, Aoi.js**
 

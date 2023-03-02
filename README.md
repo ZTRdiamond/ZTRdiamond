@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm ZTRdiamond</h1>
 
 - 🔭 I’m currently working on 
-> **Discord Bot**
+  - **Discord Bot**
 
 - 🌱 I’m currently learning
-> **Javascript, Html, Css, Aoi.js**
+  - **Javascript, Html, Css, Aoi.js**
 
 - 💬 Ask me about
-> **Aoi.js**
+  - **Aoi.js**
 
 - 📫 How to reach me
-> **Discord:** `ZTRdiamond#9126`
+  - **Discord:** `ZTRdiamond#9126`
 
 - ⚡ Fun fact
-> **I like programming started from my curiosity how to make a game**
+  - **I like programming started from my curiosity how to make a game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=ztrdiamond&show_icons=true&locale=en" alt="ztrdiamond" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ztrdiamond&" alt="ztrdiamond" /></p>
+<p><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ztrdiamond&" alt="ztrdiamond" /></p>

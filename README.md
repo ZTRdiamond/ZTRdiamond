@@ -30,14 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ztrdiamond&show_icons=true&locale=en" alt="ztrdiamond" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ztrdiamond&" alt="ztrdiamond" /></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTRdiamond)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZTRdiamond&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZTRdiamond)  
-
-![GitHub metrics](https://metrics.lecoq.io/ZTRdiamond)  
-
-![Profile views](https://gpvc.arturio.dev/ZTRdiamond)  

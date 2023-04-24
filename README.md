@@ -6,6 +6,7 @@ Hi, I'm ZTRdiamond I like to learn new things 'maybe', I know programming since 
 
 - 🌱 Live: in Jakarta
 - 🌳 From: Indonesia 🇮🇩
+- 🌐 Website: [ztrdiamond.k4w411.net](https://ztrdiamond.k4w411.net)
 
 <h3 align="left">To do learn:</h3>
 

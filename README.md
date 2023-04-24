@@ -2,12 +2,20 @@
 
 <h3 align="left">Biodata:</h3>
 
-Hi, I'm ZTRdiamond I like to learn new things 'maybe', I'm from Jakarta, Indonesia 🇮🇩. I know programming since 2020
+Hi, I'm ZTRdiamond I like to learn new things 'maybe', I know programming since 2020 and I will still learn programming a lot.
 
-- 🧬 Age: 17th
-- ✨ Birth: 2005
 - 🌱 Live: in Jakarta
 - 🌳 From: Indonesia 🇮🇩
+
+<h3 align="left">To do learn:</h3>
+
+- Now I'm learning javascript
+- Next python
+- Next React.js
+- Next PHP
+- Next Express.js
+- Next Java
+- Next and more
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

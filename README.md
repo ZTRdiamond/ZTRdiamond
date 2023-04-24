@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZTRdiamond</h1>
 
-- 🔭 I’m currently working on 
-  - **Discord Bot**
-- 🌱 I’m currently learning
-  - **Javascript, Html, Css, Aoi.js**
-
-- 💬 Ask me about
-  - **Aoi.js**
-
-- 📫 How to reach me
-  - **Discord:** `ZTRdiamond#9126`
-
-- ⚡ Fun fact
-  - **I like programming started from my curiosity how to make a game**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ztrdiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ztrdiamond" height="30" width="40" /></a>

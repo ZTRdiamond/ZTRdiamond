@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm ZTRdiamond</h1>
 
+## Lang Used
+- [Aoi.js](https://aoi.js.org/) - The most advanced string-based package to create a Discord Bot fast and powerful.
+- [Whatsapp-Web.js](wwebjs.dev) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ztrdiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ztrdiamond" height="30" width="40" /></a>

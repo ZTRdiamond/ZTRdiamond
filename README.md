@@ -10,13 +10,7 @@ Hi, I'm ZTRdiamond I like to learn new things 'maybe', I know programming since 
 
 <h3 align="left">To do learn:</h3>
 
-- Now I'm learning javascript
-- Next python
-- Next React.js
-- Next PHP
-- Next Express.js
-- Next Java
-- Next and more
+- Still learning...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

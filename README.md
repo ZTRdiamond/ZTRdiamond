@@ -1,3 +1,3 @@
-``` javascript hello https://google.com idk
+``` javascript hello
 const hi = "hello there!";
 ```

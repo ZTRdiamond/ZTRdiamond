@@ -1,3 +1,3 @@
-``` javascript hello https://google.co link_text
-code_snippet
+``` javascript hello https://google.com idk
+const hi = "hello there!";
 ```

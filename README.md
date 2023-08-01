@@ -1,5 +1,4 @@
-http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd<p align="center"> 
- <a href="https://discordapp.com/users/776443229893034064"><img align="center" src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a> 
+<a href="https://discordapp.com/users/776443229893034064"><img align="center" src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a> 
  </p>
 
 ``` javascript

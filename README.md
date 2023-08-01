@@ -7,4 +7,4 @@ const hi = "hello!";
 ```
 
 ### Connect with me:
-<a style="width: 20px; height: 20px"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></p> ZTRdiamond
+<a style="width: 20px !important; height: 20px !important;"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></p> ZTRdiamond

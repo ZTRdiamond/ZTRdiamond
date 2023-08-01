@@ -7,4 +7,4 @@ const hi = "hello!";
 ```
 
 ### Connect with me:
-<i class="ci ci-discord"></i> ZTRdiamond
+ ZTRdiamond

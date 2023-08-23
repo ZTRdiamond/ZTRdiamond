@@ -14,3 +14,6 @@ const hi = "hello!";
 <a href="https://discord./invite/https://discord.gg/sXTXFJZQtR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sXTXFJZQtR" height="30" width="40" /></a>
 <a href="https://wa.me/6285697103902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/6285697103902" height="30" width="40" /></a>
 </p>
+
+### Support Me
+<a href="https://trakteer.id/zanixongroup/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>

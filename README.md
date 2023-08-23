@@ -16,4 +16,4 @@ const hi = "hello!";
 </p>
 
 ### Support Me:
-<a href="https://trakteer.id/zanixongroup/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="80" style="border:0px;height:80px;" alt="Trakteer Saya"></a>
+<a href="https://trakteer.id/zanixongroup/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="60" style="border:0px;height:60px;" alt="Trakteer Saya"></a>

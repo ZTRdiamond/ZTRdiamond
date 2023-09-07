@@ -16,11 +16,10 @@ const hi = "hello!";
 </p>
 
 ### Account Stats
-
 <a href="https://github.com/ZTRdiamond">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZTRdiamond&card_width=320&bg_color=101010&title_color=03fff7&text_color=ffffff&border_color=01bdff&border=4" />
 </a>
-</br></br>
+</br>
 <a href="https://github.com/ZTRdiamond">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTRdiamond&layout=compact&langs_count=10&card_width=320&bg_color=101010&title_color=03fff7&text_color=ffffff&border_color=01bdff&border=4" />
 </a>

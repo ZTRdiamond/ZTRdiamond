@@ -16,6 +16,10 @@ const hi = "hello!";
 </p>
 
 <a href="https://github.com/ZTRdiamond">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZTRdiamond&bg_color=03fff7&title_color=ffffff&text_color=000000&border_color=01bdff" />
+</a>
+
+<a href="https://github.com/ZTRdiamond">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTRdiamond&layout=compact&langs_count=10&card_width=320" />
 </a>
 

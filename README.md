@@ -15,7 +15,7 @@ const hi = "hello!";
 <a href="https://fb.com/gelapnjerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gelapnjerr" height="30" width="40" /></a>
 <a href="https://instagram.com/fatahillah_a.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatahillah_a.m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@fthplayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fthplayz" height="30" width="40" /></a>
-<a href="https://discord./invite/https://discord.gg/sXTXFJZQtR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sXTXFJZQtR" height="30" width="40" /></a>
+<a href="https://discord./invite/sXTXFJZQtR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sXTXFJZQtR" height="30" width="40" /></a>
 <a href="https://wa.me/6285697103902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/6285697103902" height="30" width="40" /></a>
 </p>
 

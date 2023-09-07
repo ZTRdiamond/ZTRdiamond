@@ -1,3 +1,4 @@
+# Hello, I'm ZTRdiamond!
 <a href="https://discordapp.com/users/776443229893034064"><img align="center" src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a> 
  </p>
 
@@ -5,7 +6,7 @@
 const hi = "hello!";
 ```
 
-### Connect with me:
+# Connect with me:
 <p align="left">
 <a href="https://twitter.com/ztrdiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ztrdiamond" height="30" width="40" /></a>
 <a href="https://fb.com/gelapnjerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gelapnjerr" height="30" width="40" /></a>
@@ -15,7 +16,7 @@ const hi = "hello!";
 <a href="https://wa.me/6285697103902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/6285697103902" height="30" width="40" /></a>
 </p>
 
-### Account Stats
+# Account Stats
 <a href="https://github.com/ZTRdiamond">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZTRdiamond&card_width=320&bg_color=101010&title_color=03fff7&text_color=ffffff&border_color=01bdff&border=4" />
 </a>

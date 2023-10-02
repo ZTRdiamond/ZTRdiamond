@@ -3,7 +3,36 @@
  </p>
 
 ``` javascript
-const hi = "hello!";
+const my = require("ZTRdiamond");
+
+my.introduction({
+  "nickname":"ZTRdiamond",
+  "realname":"Fatahillah",
+  "birth":"2005",
+  "country":"Indonesia",
+  "city":"Jakarta",
+  "hobby":[
+    "reading",
+    "drawing",
+    "learn a new things",
+    "playing video game",
+    "coding",
+    "watching movie and anime"
+    ],
+  "pronounce":"he/him"
+})
+
+my.techStack({
+  known: [
+    "JavaScript",
+    "React.js",
+    "HTML",
+    "CSS",
+    "BootStrap",
+    "Aoi.js",
+    "wwebjs"
+  ]
+});
 ```
 
 <hr>

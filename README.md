@@ -1,49 +1,23 @@
 # Hello, I'm ZTRdiamond!
-<a href="https://discordapp.com/users/776443229893034064"><img align="center" src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a> 
+<a href="https://discord.com/users/776443229893034064" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a> 
  </p>
+ 
+*The rainy weather was very relaxing.*
 
-``` javascript
-const my = require("ZTRdiamond");
+<hr> 
 
-my.introduction({
-  "nickname":"ZTRdiamond",
-  "realname":"Fatahillah",
-  "birth":"2005",
-  "country":"Indonesia",
-  "city":"Jakarta",
-  "hobby":[
-    "reading",
-    "drawing",
-    "learn a new things",
-    "playing video game",
-    "coding",
-    "watching movie and anime"
-    ],
-  "pronounce":"he/him"
-})
-
-my.techStack({
-  known: [
-    "JavaScript",
-    "React.js",
-    "HTML",
-    "CSS",
-    "BootStrap",
-    "Aoi.js",
-    "wwebjs"
-  ]
-});
-```
+### Skills:
+![Skills](https://skillicons.dev/icons?i=js,html,css,react,express&theme=dark)
 
 <hr>
 
-### Connect with me:
+### Contact:
 
 <p align="left">
 <a href="https://twitter.com/ztrdiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ztrdiamond" height="30" width="40" /></a>
 <a href="https://fb.com/gelapnjerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gelapnjerr" height="30" width="40" /></a>
 <a href="https://instagram.com/ztr.diamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ztr.diamond" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@fthplayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fthplayz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ztrdiamond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ztrdiamond" height="30" width="40" /></a>
 <a href="https://discord.com/invite/sXTXFJZQtR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sXTXFJZQtR" height="30" width="40" /></a>
 <a href="https://wa.me/6285697103902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/6285697103902" height="30" width="40" /></a>
 </p>

@@ -1,7 +1,5 @@
 # Hello, I'm ZTRdiamond!
-<a href="https://discord.com/users/776443229893034064" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a> 
-
-<img src="http://pnode2.danbot.host:7279/get/@ztrdiamond?theme=gelbooru" alt="ztrdiamond" />
+<a href="https://discord.com/users/776443229893034064" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a>
  
 *The rainy weather was very relaxing.*
 
@@ -33,6 +31,10 @@
 <a href="https://github.com/ZTRdiamond">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTRdiamond&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
 </a>
+
+<hr>
+
+<img src="http://pnode2.danbot.host:7279/get/@ztrdiamond?theme=gelbooru" alt="ztrdiamond" />
 
 <hr>
 

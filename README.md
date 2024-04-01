@@ -36,8 +36,7 @@
 
 <hr>
 
-![ztrdiamond view count](https://moe-counter.glitch.me/get/@ztrdiamond?theme=gelbooru)
-http://pnode2.danbot.host:7279/get/@ztrdiamond?theme=gelbooru
+[![ztrdiamond view count](https://moe-counter.glitch.me/get/@ztrdiamond?theme=gelbooru)](http://pnode2.danbot.host:7279/get/@ztrdiamond?theme=gelbooru)
 
 <hr>
 

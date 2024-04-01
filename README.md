@@ -36,7 +36,7 @@
 
 <hr>
 
-![ztrdiamond view count](https://moe-counter.glitch.me/get/@ztrdiamond?theme=rule34)
+![ztrdiamond view count](https://moe-counter.glitch.me/get/@ztrdiamond?theme=gelbooru)
 
 <hr>
 

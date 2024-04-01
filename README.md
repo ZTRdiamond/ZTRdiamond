@@ -36,7 +36,7 @@
 
 <hr>
 
-<img src="http://pnode2.danbot.host:7279/get/@ztrdiamond?theme=gelbooru" alt="ztrdiamond" />
+<img src="https://moe-counter.glitch.me/get/@ztrdiamond?theme=rule34" alt="ztrdiamond" />
 
 <hr>
 

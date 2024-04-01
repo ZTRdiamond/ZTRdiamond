@@ -36,7 +36,7 @@
 
 <hr>
 
-<img src="https://moe-counter.glitch.me/get/@ztrdiamond?theme=rule34" alt="ztrdiamond" />
+<img style="max-width: 100%;" src="https://moe-counter.glitch.me/get/@ztrdiamond?theme=rule34" alt="ztrdiamond" />
 
 <hr>
 

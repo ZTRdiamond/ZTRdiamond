@@ -8,7 +8,7 @@
 <hr> 
 
 ### Skills:
-![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express&theme=dark)
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express&theme=dark&perline=4)
 
 <hr>
 
@@ -20,7 +20,7 @@
 <a href="https://instagram.com/ztr.diamond" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="ztr.diamond" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@ztrdiamond" target="blank"><img align="center" src="https://pomf2.lain.la/f/z3vxfewb.png" alt="ztrdiamond" height="50" width="50" /></a>
 <a href="https://discord.com/invite/sXTXFJZQtR" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="sXTXFJZQtR" height="50" width="50" /></a>
-<a href="https://wa.me/6285697103902" target="blank"><img align="center" src="https://pomf2.lain.la/f/v4npl8n1.png" alt="wa.me/6285697103902" height="50" width="50" style="margin-left: -10"/></a>
+<a href="https://wa.me/6285697103902" target="blank"><img align="center" src="https://pomf2.lain.la/f/v4npl8n1.png" alt="https://wa.me/6285697103902" height="50" width="50" style="margin-left: -10"/></a>
 </p>
 
 <hr>
@@ -36,7 +36,7 @@
 
 <hr>
 
-[![ztrdiamond view count](https://moe-counter.glitch.me/get/@ztrdiamond?theme=gelbooru)](http://pnode2.danbot.host:7279/get/@ztrdiamond?theme=gelbooru)
+![ztrdiamond view count](https://moe-counter.glitch.me/get/@ztrdiamond?theme=gelbooru)
 
 <hr>
 

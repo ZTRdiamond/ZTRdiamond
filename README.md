@@ -7,8 +7,8 @@
 
 <hr> 
 
-### Skills:
-![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express&theme=dark&perline=6)
+### Tools used:
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,nodejs,github,markdown,npm&theme=dark&perline=6)
 
 <hr>
 

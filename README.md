@@ -8,7 +8,7 @@
 <hr> 
 
 ### Skills:
-![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express&theme=dark&perline=4)
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express&theme=dark&perline=6)
 
 <hr>
 

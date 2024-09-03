@@ -2,8 +2,6 @@
 
 <hr> 
 
-![Menuju-Indonesia-(C)emas](https://host.zanixon.my.id/file/loiGSXEn9fk.com-video-to-gif-converter)
-
 # Hello, I'm ZTRdiamond!
 <a href="https://discord.com/users/776443229893034064" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a>
  

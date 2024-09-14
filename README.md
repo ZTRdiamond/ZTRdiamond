@@ -32,6 +32,8 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ZTRdiamond&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
 </a>
 </br>
+<a href="httpe://github.com/ZTRdiamond"><img align="center" src="https://api.githubtrends.io/user/svg/ZTRdiamond/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=dark" alt="ZTRdiamond" /></a>
+</br>
 <a href="https://github.com/ZTRdiamond">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTRdiamond&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
 </a>

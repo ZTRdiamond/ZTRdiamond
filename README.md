@@ -1,42 +1,73 @@
-[![I-Stand-With-Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://arab.org/portal/palestine/where-to-donate/)
+<a href="#"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" align="center" style="width: 100%"></a>
 
-<hr> 
+<div align="center">
+<img src="https://appetiser-dev-space.sgp1.digitaloceanspaces.com/B85JJCVxXJUFVDNi.webp" align="center" style="width: 30%" />
+</div>  
 
-# Hello, I'm ZTRdiamond!
-<a href="https://discord.com/users/776443229893034064" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-2/776443229893034064.png"/></a>
- 
-*The rainy weather was very relaxing.*
+## <div align="center">I'm ZTRdiamond, a Hobbyist programmer since 2020</div>
+  
 
-<hr> 
+- 🔭 I’m currently working on [Zanixon Group](https://github.com/ZanixonGroup) as a leader.  
+  
 
-### Tools used:
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+- 🌱 I’m currently learning Web development, Javascript and Typescript.
+  
 
-<hr>
+- ❓ Ask me about anything related to Javascript and related technologies.
+  
 
-### Contact:
+- 💭 I have an interest in backend development and bot development
+  
 
-<p align="left">
-<a href="https://twitter.com/ztrdiamond" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="ztrdiamond" height="50" width="50" /></a>
-<a href="https://fb.com/gelapnjerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gelapnjerr" height="50" width="50" /></a>
-<a href="https://instagram.com/ztr.diamond" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="ztr.diamond" height="50" width="50" /></a>
-<a href="https://www.youtube.com/@ztrdiamond" target="blank"><img align="center" src="https://pomf2.lain.la/f/z3vxfewb.png" alt="ztrdiamond" height="50" width="50" /></a>
-<a href="https://discord.com/invite/sXTXFJZQtR" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="sXTXFJZQtR" height="50" width="50" /></a>
-<a href="https://wa.me/6285697103902" target="blank"><img align="center" src="https://pomf2.lain.la/f/v4npl8n1.png" alt="https://wa.me/6285697103902" height="50" width="50" style="margin-left: -10"/></a>
-</p>
+<br/>  
 
-<hr>
 
-### Account Stats:
-<a href="https://github.com/ZTRdiamond">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ZTRdiamond&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
+## Knowledge
+- **Frontend:**<br/> [![Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+
+- **Backend:**<br/> [![Skills](https://skillicons.dev/icons?i=js,ts,express,nodejs&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+
+- **DevOps:**<br/> [![Skills](https://skillicons.dev/icons?i=git,github,docker,npm,yarn&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+
+<br/>
+
+## Connect with me  
+<div align="center">
+<a href="https://www.facebook.com/gelapnjerr" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-</br>
-<a href="https://github.com/ZTRdiamond">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTRdiamond&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
+<a href="https://instagram.com/ztr.diamond" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://github.com/ztrdiamond" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ztrdiamond" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/ztrdiamond" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<hr>
+<br/>  
 
-### Support Me On:
-<a href="https://trakteer.id/zanixongroup/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+## Github Stats  
+
+<div align="center"><img src="https://count.getloli.com/@ztrdiamond?name=ztrdiamond&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" align="center"></div>
+
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZTRdiamond&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>  
+
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTRdiamond&layout=compact&langs_count=15&card_width=390&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>  
+
+<br/>
+
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ztrdiamond&theme=react&utcOffset=7" align="center" /></div>  
+
+<br/>

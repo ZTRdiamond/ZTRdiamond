@@ -1,9 +1,5 @@
 <a href="#"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" align="center" style="width: 100%"></a>
 
-<div align="center">
-<img src="https://appetiser-dev-space.sgp1.digitaloceanspaces.com/B85JJCVxXJUFVDNi.webp" align="center" style="width: 30%" />
-</div>  
-
 ## <div align="center">I'm ZTRdiamond, a Hobbyist programmer since 2020</div>
   
 

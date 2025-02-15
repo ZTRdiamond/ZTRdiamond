@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Zanixon Group](https://github.com/ZanixonGroup) as a leader.  
   
 
-- 🌱 I’m currently learning Web development, Javascript and Typescript.
+- 🌱 I’m currently learning Any bot development, Javascript and Typescript.
   
 
 - ❓ Ask me about anything related to Javascript and related technologies.

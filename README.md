@@ -19,6 +19,8 @@
 
 
 ## Knowledge
+- **Languages:**<br/> [![Skills](https://skillicons.dev/icons?i=js,ts&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+
 - **Frontend:**<br/> [![Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
 
 - **Backend:**<br/> [![Skills](https://skillicons.dev/icons?i=js,ts,express,nodejs&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)

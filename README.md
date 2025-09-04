@@ -27,6 +27,8 @@
 
 - **DevOps:**<br/> [![Skills](https://skillicons.dev/icons?i=git,github,docker,npm,yarn&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
 
+- **Database:**<br/> [![Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+
 <br/>
 
 ## Connect with me  

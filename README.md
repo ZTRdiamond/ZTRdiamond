@@ -23,7 +23,7 @@
 
 - **Frontend:**<br/> [![Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
 
-- **Backend:**<br/> [![Skills](https://skillicons.dev/icons?i=js,ts,express,nodejs&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+- **Backend:**<br/> [![Skills](https://skillicons.dev/icons?i=js,ts,express,nodejs,hono&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
 
 - **DevOps:**<br/> [![Skills](https://skillicons.dev/icons?i=git,github,docker,npm,yarn&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
 

@@ -60,15 +60,15 @@
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ztrdiamond&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-cyyin.vercel.app/api/wakatime?username=@ztrdiamond&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>  
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZTRdiamond&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-cyyin.vercel.app/api?username=ZTRdiamond&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>  
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTRdiamond&layout=compact&langs_count=15&card_width=390&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-cyyin.vercel.app/api/top-langs?username=ZTRdiamond&layout=compact&langs_count=15&card_width=390&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>  
 
 <br/>
 

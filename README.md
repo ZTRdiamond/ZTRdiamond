@@ -13,49 +13,47 @@
 - **Languages:**<br/>
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts&theme=dark&perline=6">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts&theme=light&perline=6">
-      <img src="https://skillicons.dev/icons?i=js,ts&theme=dark&perline=6" alt="Languages">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts&theme=dark&perline=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts&theme=light&perline=6">
+      <img src="https://skillicons.dev/icons?i=js%2Cts&theme=dark&perline=6" alt="Languages">
     </picture>
   </a>
 
 - **Frontend:**<br/>
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark&perline=6">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=light&perline=6">
-      <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark&perline=6" alt="Frontend">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Chtml%2Ccss%2Creact%2Cbootstrap&theme=dark&perline=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Chtml%2Ccss%2Creact%2Cbootstrap&theme=light&perline=6">
+      <img src="https://skillicons.dev/icons?i=js%2Chtml%2Ccss%2Creact%2Cbootstrap&theme=dark&perline=6" alt="Frontend">
     </picture>
   </a>
 
 - **Backend:**<br/>
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,express,nodejs,hono&theme=dark&perline=6">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,express,nodejs,hono&theme=light&perline=6">
-      <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,hono&theme=dark&perline=6" alt="Backend">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cexpress%2Cnodejs%2Chono&theme=dark&perline=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cexpress%2Cnodejs%2Chono&theme=light&perline=6">
+      <img src="https://skillicons.dev/icons?i=js%2Cts%2Cexpress%2Cnodejs%2Chono&theme=dark&perline=6" alt="Backend">
     </picture>
   </a>
 
 - **DevOps:**<br/>
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,npm,yarn&theme=dark&perline=6">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,npm,yarn&theme=light&perline=6">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,npm,yarn&theme=dark&perline=6" alt="DevOps">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cnpm%2Cyarn&theme=dark&perline=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cnpm%2Cyarn&theme=light&perline=6">
+      <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cnpm%2Cyarn&theme=dark&perline=6" alt="DevOps">
     </picture>
   </a>
 
 - **Database:**<br/>
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark&perline=6">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=light&perline=6">
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark&perline=6" alt="Database">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql%2Cmongodb%2Cmysql&theme=dark&perline=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgresql%2Cmongodb%2Cmysql&theme=light&perline=6">
+      <img src="https://skillicons.dev/icons?i=postgresql%2Cmongodb%2Cmysql&theme=dark&perline=6" alt="Database">
     </picture>
   </a>
-
-<br/>
 
 ## Connect with me
 <div align="center">
